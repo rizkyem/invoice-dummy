@@ -4,7 +4,7 @@ This project generates sample invoice workbooks and cleans them into a tabular C
 
 ## What is included
 
-- `create_random_file_xlsx_looping.ipynb` generates one invoice workbook per day for April 2026.
+- `create_random_file_xlsx_looping.ipynb` generates one invoice workbook per day for the full year 2026.
 - `invoice_example.xlsx` is a single styled invoice example.
 - `invoices/` contains the generated daily invoice workbooks.
 - `cleaning.ipynb` extracts invoice metadata and line items from the workbooks.
@@ -19,7 +19,7 @@ The cleaned CSV contains one row per invoice line item with these fields:
 - Item description, quantity, unit price, and tax rate
 - Calculated line total
 
-The generated invoices use a 30-day payment period and an 11% tax rate.
+The generated invoices use a 30-day payment period and an 11% tax rate. The generator creates 365 invoice workbooks for 2026.
 
 ## Requirements
 
