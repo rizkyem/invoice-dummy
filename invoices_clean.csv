@@ -1,0 +1,97 @@
+invoice_no,date,due_date,status,client,address,contact,description,qty,unit_price,tax_rate,line_total
+INV-20260401-001,2026-04-01,2026-05-01,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Data Analysis & Reporting,15,600000,0.11,9990000.0
+INV-20260401-001,2026-04-01,2026-05-01,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,UI/UX Design Services,9,750000,0.11,7492500.000000001
+INV-20260402-002,2026-04-02,2026-05-02,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Technical Documentation,2,250000,0.11,555000.0
+INV-20260402-002,2026-04-02,2026-05-02,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Software Development,6,5000000,0.11,33300000.000000004
+INV-20260402-002,2026-04-02,2026-05-02,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,API Development,14,900000,0.11,13986000.000000002
+INV-20260402-002,2026-04-02,2026-05-02,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Professional Consulting Services,15,500000,0.11,8325000.000000001
+INV-20260403-003,2026-04-03,2026-05-03,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,UI/UX Design Services,29,750000,0.11,24142500.000000004
+INV-20260403-003,2026-04-03,2026-05-03,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Technical Documentation,38,250000,0.11,10545000.0
+INV-20260403-003,2026-04-03,2026-05-03,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,API Development,18,900000,0.11,17982000.0
+INV-20260403-003,2026-04-03,2026-05-03,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Software Development,1,5000000,0.11,5550000.000000001
+INV-20260404-004,2026-04-04,2026-05-04,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,API Development,14,900000,0.11,13986000.000000002
+INV-20260404-004,2026-04-04,2026-05-04,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Cloud Infrastructure Setup,49,1200000,0.11,65268000.00000001
+INV-20260404-004,2026-04-04,2026-05-04,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Data Analysis & Reporting,22,600000,0.11,14652000.000000002
+INV-20260404-004,2026-04-04,2026-05-04,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Software Development,7,5000000,0.11,38850000.0
+INV-20260405-005,2026-04-05,2026-05-05,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Software Development,39,5000000,0.11,216450000.00000003
+INV-20260405-005,2026-04-05,2026-05-05,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Cloud Infrastructure Setup,17,1200000,0.11,22644000.000000004
+INV-20260405-005,2026-04-05,2026-05-05,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Technical Documentation,3,250000,0.11,832500.0000000001
+INV-20260406-006,2026-04-06,2026-05-06,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Software Development,19,5000000,0.11,105450000.00000001
+INV-20260406-006,2026-04-06,2026-05-06,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,API Development,41,900000,0.11,40959000.0
+INV-20260406-006,2026-04-06,2026-05-06,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Project Management,40,450000,0.11,19980000.0
+INV-20260406-006,2026-04-06,2026-05-06,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Data Analysis & Reporting,24,600000,0.11,15984000.000000002
+INV-20260407-007,2026-04-07,2026-05-07,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Software Development,19,5000000,0.11,105450000.00000001
+INV-20260407-007,2026-04-07,2026-05-07,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Professional Consulting Services,6,500000,0.11,3330000.0000000005
+INV-20260407-007,2026-04-07,2026-05-07,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,UI/UX Design Services,15,750000,0.11,12487500.000000002
+INV-20260407-007,2026-04-07,2026-05-07,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,API Development,7,900000,0.11,6993000.000000001
+INV-20260408-008,2026-04-08,2026-05-08,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,QA & Testing Services,24,350000,0.11,9324000.0
+INV-20260408-008,2026-04-08,2026-05-08,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Cloud Infrastructure Setup,23,1200000,0.11,30636000.000000004
+INV-20260408-008,2026-04-08,2026-05-08,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,System Integration & Testing,14,400000,0.11,6216000.000000001
+INV-20260409-009,2026-04-09,2026-05-09,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,Software Development,30,5000000,0.11,166500000.0
+INV-20260409-009,2026-04-09,2026-05-09,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,System Integration & Testing,25,400000,0.11,11100000.000000002
+INV-20260409-009,2026-04-09,2026-05-09,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,UI/UX Design Services,18,750000,0.11,14985000.000000002
+INV-20260409-009,2026-04-09,2026-05-09,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,Project Management,41,450000,0.11,20479500.0
+INV-20260410-010,2026-04-10,2026-05-10,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Cloud Infrastructure Setup,3,1200000,0.11,3996000.0000000005
+INV-20260410-010,2026-04-10,2026-05-10,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Professional Consulting Services,21,500000,0.11,11655000.000000002
+INV-20260410-010,2026-04-10,2026-05-10,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,UI/UX Design Services,26,750000,0.11,21645000.000000004
+INV-20260410-010,2026-04-10,2026-05-10,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,API Development,18,900000,0.11,17982000.0
+INV-20260411-011,2026-04-11,2026-05-11,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Project Management,14,450000,0.11,6993000.000000001
+INV-20260411-011,2026-04-11,2026-05-11,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Cloud Infrastructure Setup,42,1200000,0.11,55944000.00000001
+INV-20260412-012,2026-04-12,2026-05-12,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,QA & Testing Services,9,350000,0.11,3496500.0000000005
+INV-20260412-012,2026-04-12,2026-05-12,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,System Integration & Testing,16,400000,0.11,7104000.000000001
+INV-20260412-012,2026-04-12,2026-05-12,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Data Analysis & Reporting,48,600000,0.11,31968000.000000004
+INV-20260413-013,2026-04-13,2026-05-13,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,Project Management,15,450000,0.11,7492500.000000001
+INV-20260413-013,2026-04-13,2026-05-13,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,API Development,9,900000,0.11,8991000.0
+INV-20260413-013,2026-04-13,2026-05-13,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,Technical Documentation,33,250000,0.11,9157500.0
+INV-20260413-013,2026-04-13,2026-05-13,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,System Integration & Testing,32,400000,0.11,14208000.000000002
+INV-20260414-014,2026-04-14,2026-05-14,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Software Development,41,5000000,0.11,227550000.00000003
+INV-20260414-014,2026-04-14,2026-05-14,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,System Integration & Testing,11,400000,0.11,4884000.0
+INV-20260415-015,2026-04-15,2026-05-15,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Software Development,30,5000000,0.11,166500000.0
+INV-20260415-015,2026-04-15,2026-05-15,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,API Development,34,900000,0.11,33966000.0
+INV-20260415-015,2026-04-15,2026-05-15,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Technical Documentation,17,250000,0.11,4717500.0
+INV-20260415-015,2026-04-15,2026-05-15,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Data Analysis & Reporting,36,600000,0.11,23976000.000000004
+INV-20260416-016,2026-04-16,2026-05-16,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Software Development,42,5000000,0.11,233100000.00000003
+INV-20260416-016,2026-04-16,2026-05-16,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Technical Documentation,22,250000,0.11,6105000.000000001
+INV-20260416-016,2026-04-16,2026-05-16,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Data Analysis & Reporting,8,600000,0.11,5328000.000000001
+INV-20260416-016,2026-04-16,2026-05-16,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,API Development,19,900000,0.11,18981000.0
+INV-20260417-017,2026-04-17,2026-05-17,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,QA & Testing Services,47,350000,0.11,18259500.0
+INV-20260417-017,2026-04-17,2026-05-17,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Professional Consulting Services,47,500000,0.11,26085000.000000004
+INV-20260418-018,2026-04-18,2026-05-18,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,System Integration & Testing,41,400000,0.11,18204000.0
+INV-20260418-018,2026-04-18,2026-05-18,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,Technical Documentation,20,250000,0.11,5550000.000000001
+INV-20260418-018,2026-04-18,2026-05-18,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,Software Development,41,5000000,0.11,227550000.00000003
+INV-20260418-018,2026-04-18,2026-05-18,PENDING,PT KARYA INOVASI Tbk,"Jl. Thamrin No. 1, Jakarta 10310",Siti Rahayu | siti@karyainovasi.com,API Development,33,900000,0.11,32967000.000000004
+INV-20260419-019,2026-04-19,2026-05-19,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Cloud Infrastructure Setup,35,1200000,0.11,46620000.00000001
+INV-20260419-019,2026-04-19,2026-05-19,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,System Integration & Testing,50,400000,0.11,22200000.000000004
+INV-20260420-020,2026-04-20,2026-05-20,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Cloud Infrastructure Setup,24,1200000,0.11,31968000.000000004
+INV-20260420-020,2026-04-20,2026-05-20,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,QA & Testing Services,20,350000,0.11,7770000.000000001
+INV-20260420-020,2026-04-20,2026-05-20,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Professional Consulting Services,16,500000,0.11,8880000.0
+INV-20260420-020,2026-04-20,2026-05-20,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Technical Documentation,4,250000,0.11,1110000.0
+INV-20260421-021,2026-04-21,2026-05-21,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Software Development,5,5000000,0.11,27750000.000000004
+INV-20260421-021,2026-04-21,2026-05-21,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Project Management,49,450000,0.11,24475500.000000004
+INV-20260421-021,2026-04-21,2026-05-21,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,QA & Testing Services,35,350000,0.11,13597500.000000002
+INV-20260421-021,2026-04-21,2026-05-21,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,API Development,50,900000,0.11,49950000.00000001
+INV-20260422-022,2026-04-22,2026-05-22,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,QA & Testing Services,11,350000,0.11,4273500.0
+INV-20260422-022,2026-04-22,2026-05-22,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Technical Documentation,17,250000,0.11,4717500.0
+INV-20260423-023,2026-04-23,2026-05-23,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Technical Documentation,46,250000,0.11,12765000.000000002
+INV-20260423-023,2026-04-23,2026-05-23,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,UI/UX Design Services,20,750000,0.11,16650000.000000002
+INV-20260424-024,2026-04-24,2026-05-24,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Cloud Infrastructure Setup,16,1200000,0.11,21312000.000000004
+INV-20260424-024,2026-04-24,2026-05-24,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,QA & Testing Services,15,350000,0.11,5827500.000000001
+INV-20260424-024,2026-04-24,2026-05-24,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Technical Documentation,5,250000,0.11,1387500.0000000002
+INV-20260424-024,2026-04-24,2026-05-24,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,Professional Consulting Services,22,500000,0.11,12210000.000000002
+INV-20260425-025,2026-04-25,2026-05-25,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Technical Documentation,5,250000,0.11,1387500.0000000002
+INV-20260425-025,2026-04-25,2026-05-25,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,UI/UX Design Services,46,750000,0.11,38295000.0
+INV-20260425-025,2026-04-25,2026-05-25,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Project Management,41,450000,0.11,20479500.0
+INV-20260425-025,2026-04-25,2026-05-25,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Professional Consulting Services,4,500000,0.11,2220000.0
+INV-20260426-026,2026-04-26,2026-05-26,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Professional Consulting Services,5,500000,0.11,2775000.0000000005
+INV-20260426-026,2026-04-26,2026-05-26,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,Cloud Infrastructure Setup,33,1200000,0.11,43956000.00000001
+INV-20260427-027,2026-04-27,2026-05-27,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,QA & Testing Services,47,350000,0.11,18259500.0
+INV-20260427-027,2026-04-27,2026-05-27,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,UI/UX Design Services,37,750000,0.11,30802500.000000004
+INV-20260427-027,2026-04-27,2026-05-27,PENDING,CV SOLUSI DIGITAL Nusantara,"Jl. Pemuda No. 55, Surabaya 60271",Andi Wijaya | andi@solusid.co.id,System Integration & Testing,37,400000,0.11,16428000.000000002
+INV-20260428-028,2026-04-28,2026-05-28,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,QA & Testing Services,13,350000,0.11,5050500.0
+INV-20260428-028,2026-04-28,2026-05-28,PENDING,UD BERKAH JAYA,"Jl. Raya Bogor No. 88, Depok 16413",Hendra Putra | hendra@berkahjaya.id,API Development,7,900000,0.11,6993000.000000001
+INV-20260429-029,2026-04-29,2026-05-29,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,API Development,30,900000,0.11,29970000.000000004
+INV-20260429-029,2026-04-29,2026-05-29,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Cloud Infrastructure Setup,47,1200000,0.11,62604000.00000001
+INV-20260429-029,2026-04-29,2026-05-29,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Project Management,4,450000,0.11,1998000.0000000002
+INV-20260429-029,2026-04-29,2026-05-29,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,UI/UX Design Services,44,750000,0.11,36630000.0
+INV-20260430-030,2026-04-30,2026-05-30,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,API Development,7,900000,0.11,6993000.000000001
+INV-20260430-030,2026-04-30,2026-05-30,PENDING,PT MITRA BISNIS Indonesia,"Jl. Gatot Subroto No. 999, Bandung 40123",Budi Santoso | budi@mitraindonesia.com,Cloud Infrastructure Setup,16,1200000,0.11,21312000.000000004
