@@ -2,3 +2,5 @@ pandas
 openpyxl
 jupyter
 google-cloud-bigquery
+plotly
+streamlit
