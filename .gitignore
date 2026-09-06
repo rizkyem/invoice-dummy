@@ -24,3 +24,8 @@ ENV/
 *.temp
 *.swp
 *~
+
+# Local-only analysis and cloud ingestion
+bigquery_ingest.ipynb
+analysis.xlsx
+bi_dashboard.png
